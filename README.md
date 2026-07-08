@@ -1,4 +1,10 @@
-## Hi there 👋
+
+# Hi, I'm Deepanshi
+
+I am a student of Electronics and Communication Engineering with skills in C programming and Python. I am active on Medium, where I share my writing and creative reflections. I enjoy contributing to projects and recently made my first open-source contribution by adding my name to the Contributors list in the First Contributions project, which marked the beginning of my journey in collaborative development.
+
+## Open Source Contributions
+- [Add Deepanshi to Contributors list](https://github.com/first-contributions/first-contributions/pull/1)
 
 <!--
 **deepanshi254025/deepanshi254025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
