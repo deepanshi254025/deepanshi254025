@@ -5,7 +5,7 @@ I am a student of Electronics and Communication Engineering with skills in C pro
 
 ## Open Source Contributions
 - [Add Deepanshi to Contributors list](https://github.com/first-contributions/first-contributions/pull/1)
-
+-[good-first-issue](https://github.com/DeepSourceCorp/good-first-issue/pull/2777)
 <!--
 **deepanshi254025/deepanshi254025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
