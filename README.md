@@ -5,7 +5,7 @@ I am a student of Electronics and Communication Engineering with skills in C pro
 
 ## Open Source Contributions
 - [Add Deepanshi to Contributors list](https://github.com/first-contributions/first-contributions/pull/1)
--[good-first-issue](https://github.com/DeepSourceCorp/good-first-issue/pull/2777)
+- [good-first-issue](https://github.com/DeepSourceCorp/good-first-issue/pull/2777)
 ##  Open Source Contributions
 - [My first contribution PR – GoodFirstIssue](https://github.com/pranaykgupta/GoodFirstIssue/pull/100)  
 - [Personal practice fork – GoodFirstIssue](https://github.com/deepanshi254025/GoodFirstIssue)
